@@ -7,7 +7,7 @@ namespace addressbook_web_test2
     {
         [TestMethod]
         public void TestMethod1()
-        {
+        { 
         }
     }
 }
